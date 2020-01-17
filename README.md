@@ -8,8 +8,8 @@ Pay attention to print the pressure pad with the flex foil cavity heading upward
 
 Copyright (C) 2019 by Thorsten Godau (dl9sec) and licensed under GNU GPL v3.0, https://www.gnu.org/licenses/gpl.html.
 
-![alt Bezel parts](https://github.com/dl9sec/Bezel_OLED/raw/master/images/Bezel_AZ-Delivery_OLED_I2C_1.png)
+![alt Bezel parts](https://github.com/dl9sec/Bezel_OLED/raw/master/images/Bezel_AZ-Delivery_OLED_I2C_1.3in_1.png)
 
-![alt Rear view](https://github.com/dl9sec/Bezel_OLED/raw/master/images/Bezel_AZ-Delivery_OLED_I2C_2.png)
+![alt Rear view](https://github.com/dl9sec/Bezel_OLED/raw/master/images/Bezel_AZ-Delivery_OLED_I2C_1.3in_2.png)
 
-![alt Front view](https://github.com/dl9sec/Bezel_OLED/raw/master/images/Bezel_AZ-Delivery_OLED_I2C_3.png)
+![alt Front view](https://github.com/dl9sec/Bezel_OLED/raw/master/images/Bezel_AZ-Delivery_OLED_I2C_1.3in_3.png)
